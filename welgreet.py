@@ -6,4 +6,4 @@ st.title("Welcome!")
 name = st.text_input("Enter your name:")
 
 if name:
-    st.markdown(f"Hi user{name}!")
+    st.markdown(f"Hi user {name}!")
